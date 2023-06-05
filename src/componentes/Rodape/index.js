@@ -30,5 +30,4 @@ const Rodape = () => {
        </section>
     </footer>)
 }
-
 export default Rodape
